@@ -1,7 +1,6 @@
 import React from 'react';
 import './App.css';
 import PostList from './components/PostList';
-import axios from 'axios';
 
 function App() {
   return (
