@@ -1,10 +1,13 @@
 import React from 'react';
-import './App.css';
+import Header   from './components/Header';
+import Intro    from './components/Intro';
 import PostList from './components/PostList';
 
 function App() {
   return (
-    <div className="App">
+    <div className="site">
+      <Header />
+      <Intro />
       <PostList />
     </div>
   );

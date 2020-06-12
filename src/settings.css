@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Poppins:wght@700&display=swap');
+
+:root {
+  --color-white: #fefefe;
+  --color-gray: #ccc;
+  --color-orange: #F4511E;
+  --font-heading: 'Poppins', sans-serif;
+  --font-text: 'Lato', sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+img {
+  max-width: 100%;
+  vertical-align: bottom;
+}
