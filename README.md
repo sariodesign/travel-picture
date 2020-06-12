@@ -1,3 +1,8 @@
+## Travel Picture
+A Headless CMS Project.
+
+Use React for the front-end with CSS Modules
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
